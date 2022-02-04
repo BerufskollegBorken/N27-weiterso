@@ -80,3 +80,8 @@ meineApp.post('/login',(browserAnfrage, serverAntwort, next) => {
     serverAntwort.render('index.ejs', {})          
 })
 
+
+
+// Übungen
+
+require('./Uebungen/ifUndElse.js')

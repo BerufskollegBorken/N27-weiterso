@@ -84,5 +84,5 @@ meineApp.post('/login',(browserAnfrage, serverAntwort, next) => {
 
 // Übungen
 
-require('./Uebungen/ifUndElse.js')
+//require('./Uebungen/ifUndElse.js')
 require('./Uebungen/klasseUndObjekt.js')
